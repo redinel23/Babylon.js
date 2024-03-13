@@ -109,7 +109,7 @@
         "feature": "New Feature"
     },
     "dependencies": {
-        "lerna": "^8.0.1"
+        "lerna": "^8.1.1"
     }
 }
 
